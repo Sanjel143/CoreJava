@@ -1,0 +1,36 @@
+
+Arrays->group of similar data elements
+
+int a=10;
+
+int b=20;
+
+int c=30;
+.
+.
+
+.
+1-1000
+
+int x[]={23,34,45,67};
+
+size or length is numbers of elements stored in the array
+
+size=4
+x[0]=23
+x[1]=34
+x[2]=45
+x[3]=67
+0,1,,2,3 are indexs they are position in array
+
+index value always starts with 0 
+
+ends at size-1
+
+
+
+
+6 sizw
+
+0-5
+x[6] -ArrayIndexoutsOfBoundsExxeption

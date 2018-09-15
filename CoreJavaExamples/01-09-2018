@@ -1,0 +1,143 @@
+Loops
+
+
+
+while 
+
+
+do while
+
+
+for
+
+
+Advanced For Loop
+
+
+1 -10
+System.out.println(1);
+System.out.println(2);
+System.out.println(3);
+
+while
+Syntax
+
+
+while(condition)
+{
+statements
+}
+
+
+
+n=123
+
+
+321
+
+rev=0;
+n%10
+10)123(12
+   120
+   -----
+   3
+   
+   
+   rev=rev*10+n%10;
+   rev=0*10+3
+   revv=3
+   n=n/10;
+   n=12
+   10)12(1
+      10
+      --2
+      
+      
+      rev=rev*10+n%10
+              3*10+2
+              32
+              
+              n=n/10
+               n=1
+               
+               
+               10)1(0
+               
+                 1
+                 rev=32*10+1
+                    321
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    palindrom
+                    
+                    121  -121
+                    123 -321
+                    323
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    1234
+                    1+2+3+4=10
+
+
+
+
+5!=1*2*3*4*5;
+
+
+result =2;
+5
+
+
+
+
+result =result*1;
+result =result*2;
+                
+                
+                
+                
+                
+                
+                
+       while _entry Controlled
+       do-while _exit controled         
+                
+                
+                
+                
+                
+                do
+                {
+                
+                
+                
+                
+                
+                }while(condition)
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                for(intialization;condition;incr/decr)
+                {
+                
